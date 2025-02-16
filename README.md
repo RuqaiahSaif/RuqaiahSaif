@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Freelancer , build a website.
-- 🌱 I’m currently learning react js.
 - 👯 I’m looking to collaborate on any web project.
 - 📫 How to reach me: ruqaiah.saif@gmail.com 
 <!--
